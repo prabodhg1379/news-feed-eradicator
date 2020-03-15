@@ -400,4 +400,9 @@ export const BuiltinQuotes: Array<Quote> = [
 		text: 'You only live once, but if you do it right, once is enough.',
 		source: 'Mae West',
 	},
+	{
+		id: 71,
+		text: 'The direction of your focus is the direction your life will move. Let yourself move toward what is good, valuable, strong and true.',
+		source: 'Ralph Marston',
+	}
 ];
